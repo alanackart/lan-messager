@@ -6,9 +6,8 @@ command line local network messager
 
 使用到的技术
 
-- 使用udp组播发现局域网的设备， 感谢局域网发现之UDP组播
+- 使用udp组播发现局域网的设备， 感谢[局域网发现之UDP组播](https://blog.csdn.net/lixin88/article/details/55209630)
 - 使用boost asio
-
 
 
 
